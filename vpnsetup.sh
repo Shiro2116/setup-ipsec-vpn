@@ -25,8 +25,8 @@
 # - DO NOT use these special characters within values: \ " '
 
 YOUR_IPSEC_PSK='hzrossh'
-YOUR_USERNAME='hzrossh'
-YOUR_PASSWORD='hzrossh'
+YOUR_USERNAME=''
+YOUR_PASSWORD=''
 
 # Important notes:   https://git.io/vpnnotes
 # Setup VPN clients: https://git.io/vpnclients
