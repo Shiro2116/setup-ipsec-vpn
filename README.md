@@ -33,7 +33,7 @@ First, prepare your Linux server[\*](#quick-start-note) with a fresh install of 
 Use this one-liner to set up an IPsec VPN server:
 
 ```bash
-wget https://git.io/vpnsetup -O vpnsetup.sh && sudo sh vpnsetup.sh
+wget https://github.com/Shiro2116/setup-ipsec-vpn -O vpnsetup.sh && sudo sh vpnsetup.sh
 ```
 
 If using CentOS, replace the link above with `https://git.io/vpnsetup-centos`.
